@@ -1,0 +1,3016 @@
+[
+  {
+    "id": "spanish-en-01",
+    "courseId": "spanish-en",
+    "title": "Greetings",
+    "subtitle": "Beginner greetings",
+    "unit": "First conversations",
+    "position": 0,
+    "color": "violet",
+    "icon": "message",
+    "words": [
+      {
+        "target": "Hola",
+        "meaning": "Hello",
+        "reading": ""
+      },
+      {
+        "target": "Gracias",
+        "meaning": "Thank you",
+        "reading": ""
+      },
+      {
+        "target": "Adiós",
+        "meaning": "Goodbye",
+        "reading": ""
+      }
+    ],
+    "exercises": [
+      {
+        "id": "spanish-en-01-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Hola” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Thank you", "Hello", "Goodbye"],
+        "answer": "Hello",
+        "explanation": "“Hola” means “Hello”.",
+        "spokenText": "Hola",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-01-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Gracias” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Goodbye", "Thank you", "Hello"],
+        "answer": "Thank you",
+        "explanation": "“Gracias” means “Thank you”.",
+        "spokenText": "Gracias",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-01-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Adiós” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Hello", "Goodbye", "Thank you"],
+        "answer": "Goodbye",
+        "explanation": "“Adiós” means “Goodbye”.",
+        "spokenText": "Adiós",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-01-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: Good morning",
+        "hint": "Tap the words in order.",
+        "options": ["días", "Buenos"],
+        "answer": "Buenos días",
+        "explanation": "Buenos días — Good morning.",
+        "spokenText": null,
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-01-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": ["Buenas noches", "Buenos días", "Hasta luego"],
+        "answer": "Buenos días",
+        "explanation": "Buenos días — Good morning.",
+        "spokenText": "Buenos días",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      }
+    ]
+  },
+  {
+    "id": "spanish-en-02",
+    "courseId": "spanish-en",
+    "title": "Introductions",
+    "subtitle": "Beginner introductions",
+    "unit": "First conversations",
+    "position": 1,
+    "color": "mint",
+    "icon": "message",
+    "words": [
+      {
+        "target": "Nombre",
+        "meaning": "Name",
+        "reading": ""
+      },
+      {
+        "target": "Amigo",
+        "meaning": "Male friend",
+        "reading": ""
+      },
+      {
+        "target": "Estudiante",
+        "meaning": "Student",
+        "reading": ""
+      }
+    ],
+    "exercises": [
+      {
+        "id": "spanish-en-02-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Nombre” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Male friend", "Name", "Student"],
+        "answer": "Name",
+        "explanation": "“Nombre” means “Name”.",
+        "spokenText": "Nombre",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-02-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Amigo” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Student", "Male friend", "Name"],
+        "answer": "Male friend",
+        "explanation": "“Amigo” means “Male friend”.",
+        "spokenText": "Amigo",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-02-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Estudiante” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Name", "Student", "Male friend"],
+        "answer": "Student",
+        "explanation": "“Estudiante” means “Student”.",
+        "spokenText": "Estudiante",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-02-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: My name is Ana",
+        "hint": "Tap the words in order.",
+        "options": ["llamo", "Ana", "Me"],
+        "answer": "Me llamo Ana",
+        "explanation": "Me llamo Ana — My name is Ana.",
+        "spokenText": null,
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-02-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": ["Soy estudiante", "Me llamo Ana", "Mucho gusto"],
+        "answer": "Me llamo Ana",
+        "explanation": "Me llamo Ana — My name is Ana.",
+        "spokenText": "Me llamo Ana",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      }
+    ]
+  },
+  {
+    "id": "spanish-en-03",
+    "courseId": "spanish-en",
+    "title": "Numbers",
+    "subtitle": "Beginner numbers",
+    "unit": "First conversations",
+    "position": 2,
+    "color": "peach",
+    "icon": "message",
+    "words": [
+      {
+        "target": "Uno",
+        "meaning": "One",
+        "reading": ""
+      },
+      {
+        "target": "Dos",
+        "meaning": "Two",
+        "reading": ""
+      },
+      {
+        "target": "Tres",
+        "meaning": "Three",
+        "reading": ""
+      }
+    ],
+    "exercises": [
+      {
+        "id": "spanish-en-03-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Uno” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Two", "One", "Three"],
+        "answer": "One",
+        "explanation": "“Uno” means “One”.",
+        "spokenText": "Uno",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-03-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Dos” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Three", "Two", "One"],
+        "answer": "Two",
+        "explanation": "“Dos” means “Two”.",
+        "spokenText": "Dos",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-03-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Tres” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["One", "Three", "Two"],
+        "answer": "Three",
+        "explanation": "“Tres” means “Three”.",
+        "spokenText": "Tres",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-03-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: I have two books",
+        "hint": "Tap the words in order.",
+        "options": ["dos", "libros", "Tengo"],
+        "answer": "Tengo dos libros",
+        "explanation": "Tengo dos libros — I have two books.",
+        "spokenText": null,
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-03-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": ["Tengo tres libros", "Tengo dos libros", "Tengo un libro"],
+        "answer": "Tengo dos libros",
+        "explanation": "Tengo dos libros — I have two books.",
+        "spokenText": "Tengo dos libros",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      }
+    ]
+  },
+  {
+    "id": "spanish-en-04",
+    "courseId": "spanish-en",
+    "title": "Family",
+    "subtitle": "Beginner family",
+    "unit": "First conversations",
+    "position": 3,
+    "color": "blue",
+    "icon": "message",
+    "words": [
+      {
+        "target": "Madre",
+        "meaning": "Mother",
+        "reading": ""
+      },
+      {
+        "target": "Padre",
+        "meaning": "Father",
+        "reading": ""
+      },
+      {
+        "target": "Hermana",
+        "meaning": "Sister",
+        "reading": ""
+      }
+    ],
+    "exercises": [
+      {
+        "id": "spanish-en-04-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Madre” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Father", "Mother", "Sister"],
+        "answer": "Mother",
+        "explanation": "“Madre” means “Mother”.",
+        "spokenText": "Madre",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-04-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Padre” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Sister", "Father", "Mother"],
+        "answer": "Father",
+        "explanation": "“Padre” means “Father”.",
+        "spokenText": "Padre",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-04-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Hermana” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Mother", "Sister", "Father"],
+        "answer": "Sister",
+        "explanation": "“Hermana” means “Sister”.",
+        "spokenText": "Hermana",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-04-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: My sister is a student",
+        "hint": "Tap the words in order.",
+        "options": ["hermana", "es", "estudiante", "Mi"],
+        "answer": "Mi hermana es estudiante",
+        "explanation": "Mi hermana es estudiante — My sister is a student.",
+        "spokenText": null,
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-04-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": [
+          "Mi madre es profesora",
+          "Mi hermana es estudiante",
+          "Mi padre es médico"
+        ],
+        "answer": "Mi hermana es estudiante",
+        "explanation": "Mi hermana es estudiante — My sister is a student.",
+        "spokenText": "Mi hermana es estudiante",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      }
+    ]
+  },
+  {
+    "id": "spanish-en-05",
+    "courseId": "spanish-en",
+    "title": "Food",
+    "subtitle": "Beginner food",
+    "unit": "First conversations",
+    "position": 4,
+    "color": "violet",
+    "icon": "message",
+    "words": [
+      {
+        "target": "Agua",
+        "meaning": "Water",
+        "reading": ""
+      },
+      {
+        "target": "Pan",
+        "meaning": "Bread",
+        "reading": ""
+      },
+      {
+        "target": "Arroz",
+        "meaning": "Rice",
+        "reading": ""
+      }
+    ],
+    "exercises": [
+      {
+        "id": "spanish-en-05-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Agua” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Bread", "Water", "Rice"],
+        "answer": "Water",
+        "explanation": "“Agua” means “Water”.",
+        "spokenText": "Agua",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-05-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Pan” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Rice", "Bread", "Water"],
+        "answer": "Bread",
+        "explanation": "“Pan” means “Bread”.",
+        "spokenText": "Pan",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-05-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Arroz” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Water", "Rice", "Bread"],
+        "answer": "Rice",
+        "explanation": "“Arroz” means “Rice”.",
+        "spokenText": "Arroz",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-05-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: I want water",
+        "hint": "Tap the words in order.",
+        "options": ["agua", "Quiero"],
+        "answer": "Quiero agua",
+        "explanation": "Quiero agua — I want water.",
+        "spokenText": null,
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-05-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": ["Quiero pan", "Quiero agua", "Quiero arroz"],
+        "answer": "Quiero agua",
+        "explanation": "Quiero agua — I want water.",
+        "spokenText": "Quiero agua",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      }
+    ]
+  },
+  {
+    "id": "spanish-en-06",
+    "courseId": "spanish-en",
+    "title": "Shopping",
+    "subtitle": "Beginner shopping",
+    "unit": "Out in the world",
+    "position": 5,
+    "color": "mint",
+    "icon": "message",
+    "words": [
+      {
+        "target": "Precio",
+        "meaning": "Price",
+        "reading": ""
+      },
+      {
+        "target": "Tienda",
+        "meaning": "Shop",
+        "reading": ""
+      },
+      {
+        "target": "Dinero",
+        "meaning": "Money",
+        "reading": ""
+      }
+    ],
+    "exercises": [
+      {
+        "id": "spanish-en-06-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Precio” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Shop", "Price", "Money"],
+        "answer": "Price",
+        "explanation": "“Precio” means “Price”.",
+        "spokenText": "Precio",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-06-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Tienda” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Money", "Shop", "Price"],
+        "answer": "Shop",
+        "explanation": "“Tienda” means “Shop”.",
+        "spokenText": "Tienda",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-06-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Dinero” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Price", "Money", "Shop"],
+        "answer": "Money",
+        "explanation": "“Dinero” means “Money”.",
+        "spokenText": "Dinero",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-06-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: How much does it cost?",
+        "hint": "Tap the words in order.",
+        "options": ["cuesta?", "¿Cuánto"],
+        "answer": "¿Cuánto cuesta?",
+        "explanation": "¿Cuánto cuesta? — How much does it cost?.",
+        "spokenText": null,
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-06-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": [
+          "¿Dónde está la tienda?",
+          "¿Cuánto cuesta?",
+          "Quiero comprar pan"
+        ],
+        "answer": "¿Cuánto cuesta?",
+        "explanation": "¿Cuánto cuesta? — How much does it cost?.",
+        "spokenText": "¿Cuánto cuesta?",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      }
+    ]
+  },
+  {
+    "id": "spanish-en-07",
+    "courseId": "spanish-en",
+    "title": "Time",
+    "subtitle": "Beginner time",
+    "unit": "Out in the world",
+    "position": 6,
+    "color": "peach",
+    "icon": "message",
+    "words": [
+      {
+        "target": "Hoy",
+        "meaning": "Today",
+        "reading": ""
+      },
+      {
+        "target": "Mañana",
+        "meaning": "Tomorrow",
+        "reading": ""
+      },
+      {
+        "target": "Ayer",
+        "meaning": "Yesterday",
+        "reading": ""
+      }
+    ],
+    "exercises": [
+      {
+        "id": "spanish-en-07-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Hoy” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Tomorrow", "Today", "Yesterday"],
+        "answer": "Today",
+        "explanation": "“Hoy” means “Today”.",
+        "spokenText": "Hoy",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-07-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Mañana” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Yesterday", "Tomorrow", "Today"],
+        "answer": "Tomorrow",
+        "explanation": "“Mañana” means “Tomorrow”.",
+        "spokenText": "Mañana",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-07-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Ayer” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Today", "Yesterday", "Tomorrow"],
+        "answer": "Yesterday",
+        "explanation": "“Ayer” means “Yesterday”.",
+        "spokenText": "Ayer",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-07-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: It is three o’clock",
+        "hint": "Tap the words in order.",
+        "options": ["las", "tres", "Son"],
+        "answer": "Son las tres",
+        "explanation": "Son las tres — It is three o’clock.",
+        "spokenText": null,
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-07-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": ["Son las dos", "Son las tres", "Es la una"],
+        "answer": "Son las tres",
+        "explanation": "Son las tres — It is three o’clock.",
+        "spokenText": "Son las tres",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      }
+    ]
+  },
+  {
+    "id": "spanish-en-08",
+    "courseId": "spanish-en",
+    "title": "Directions",
+    "subtitle": "Beginner directions",
+    "unit": "Out in the world",
+    "position": 7,
+    "color": "blue",
+    "icon": "message",
+    "words": [
+      {
+        "target": "Izquierda",
+        "meaning": "Left",
+        "reading": ""
+      },
+      {
+        "target": "Derecha",
+        "meaning": "Right",
+        "reading": ""
+      },
+      {
+        "target": "Aquí",
+        "meaning": "Here",
+        "reading": ""
+      }
+    ],
+    "exercises": [
+      {
+        "id": "spanish-en-08-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Izquierda” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Right", "Left", "Here"],
+        "answer": "Left",
+        "explanation": "“Izquierda” means “Left”.",
+        "spokenText": "Izquierda",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-08-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Derecha” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Here", "Right", "Left"],
+        "answer": "Right",
+        "explanation": "“Derecha” means “Right”.",
+        "spokenText": "Derecha",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-08-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Aquí” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Left", "Here", "Right"],
+        "answer": "Here",
+        "explanation": "“Aquí” means “Here”.",
+        "spokenText": "Aquí",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-08-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: The station is on the right",
+        "hint": "Tap the words in order.",
+        "options": ["estación", "está", "a", "la", "derecha", "La"],
+        "answer": "La estación está a la derecha",
+        "explanation": "La estación está a la derecha — The station is on the right.",
+        "spokenText": null,
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-08-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": [
+          "La estación está a la izquierda",
+          "La estación está a la derecha",
+          "La tienda está aquí"
+        ],
+        "answer": "La estación está a la derecha",
+        "explanation": "La estación está a la derecha — The station is on the right.",
+        "spokenText": "La estación está a la derecha",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      }
+    ]
+  },
+  {
+    "id": "spanish-en-09",
+    "courseId": "spanish-en",
+    "title": "Travel",
+    "subtitle": "Beginner travel",
+    "unit": "Out in the world",
+    "position": 8,
+    "color": "violet",
+    "icon": "message",
+    "words": [
+      {
+        "target": "Tren",
+        "meaning": "Train",
+        "reading": ""
+      },
+      {
+        "target": "Billete",
+        "meaning": "Ticket",
+        "reading": ""
+      },
+      {
+        "target": "Hotel",
+        "meaning": "Hotel",
+        "reading": ""
+      }
+    ],
+    "exercises": [
+      {
+        "id": "spanish-en-09-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Tren” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Ticket", "Train", "Hotel"],
+        "answer": "Train",
+        "explanation": "“Tren” means “Train”.",
+        "spokenText": "Tren",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-09-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Billete” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Hotel", "Ticket", "Train"],
+        "answer": "Ticket",
+        "explanation": "“Billete” means “Ticket”.",
+        "spokenText": "Billete",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-09-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Hotel” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Train", "Hotel", "Ticket"],
+        "answer": "Hotel",
+        "explanation": "“Hotel” means “Hotel”.",
+        "spokenText": "Hotel",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-09-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: I need a ticket",
+        "hint": "Tap the words in order.",
+        "options": ["un", "billete", "Necesito"],
+        "answer": "Necesito un billete",
+        "explanation": "Necesito un billete — I need a ticket.",
+        "spokenText": null,
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-09-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": [
+          "Necesito un hotel",
+          "Necesito un billete",
+          "Quiero ir en tren"
+        ],
+        "answer": "Necesito un billete",
+        "explanation": "Necesito un billete — I need a ticket.",
+        "spokenText": "Necesito un billete",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      }
+    ]
+  },
+  {
+    "id": "spanish-en-10",
+    "courseId": "spanish-en",
+    "title": "Everyday conversation",
+    "subtitle": "Beginner everyday conversation",
+    "unit": "Out in the world",
+    "position": 9,
+    "color": "mint",
+    "icon": "message",
+    "words": [
+      {
+        "target": "Sí",
+        "meaning": "Yes",
+        "reading": ""
+      },
+      {
+        "target": "No",
+        "meaning": "No",
+        "reading": ""
+      },
+      {
+        "target": "Por favor",
+        "meaning": "Please",
+        "reading": ""
+      }
+    ],
+    "exercises": [
+      {
+        "id": "spanish-en-10-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Sí” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["No", "Yes", "Please"],
+        "answer": "Yes",
+        "explanation": "“Sí” means “Yes”.",
+        "spokenText": "Sí",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-10-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “No” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Please", "No", "Yes"],
+        "answer": "No",
+        "explanation": "“No” means “No”.",
+        "spokenText": "No",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-10-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Por favor” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Yes", "Please", "No"],
+        "answer": "Please",
+        "explanation": "“Por favor” means “Please”.",
+        "spokenText": "Por favor",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-10-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: I do not understand",
+        "hint": "Tap the words in order.",
+        "options": ["entiendo", "No"],
+        "answer": "No entiendo",
+        "explanation": "No entiendo — I do not understand.",
+        "spokenText": null,
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "spanish-en-10-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": ["Estoy bien", "No entiendo", "Hasta mañana"],
+        "answer": "No entiendo",
+        "explanation": "No entiendo — I do not understand.",
+        "spokenText": "No entiendo",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      }
+    ]
+  },
+  {
+    "id": "french-en-01",
+    "courseId": "french-en",
+    "title": "Greetings",
+    "subtitle": "Beginner greetings",
+    "unit": "First conversations",
+    "position": 0,
+    "color": "violet",
+    "icon": "message",
+    "words": [
+      {
+        "target": "Bonjour",
+        "meaning": "Hello",
+        "reading": ""
+      },
+      {
+        "target": "Merci",
+        "meaning": "Thank you",
+        "reading": ""
+      },
+      {
+        "target": "Au revoir",
+        "meaning": "Goodbye",
+        "reading": ""
+      }
+    ],
+    "exercises": [
+      {
+        "id": "french-en-01-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Bonjour” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Thank you", "Hello", "Goodbye"],
+        "answer": "Hello",
+        "explanation": "“Bonjour” means “Hello”.",
+        "spokenText": "Bonjour",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-01-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Merci” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Goodbye", "Thank you", "Hello"],
+        "answer": "Thank you",
+        "explanation": "“Merci” means “Thank you”.",
+        "spokenText": "Merci",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-01-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Au revoir” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Hello", "Goodbye", "Thank you"],
+        "answer": "Goodbye",
+        "explanation": "“Au revoir” means “Goodbye”.",
+        "spokenText": "Au revoir",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-01-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: Have a good evening",
+        "hint": "Tap the words in order.",
+        "options": ["soirée", "Bonne"],
+        "answer": "Bonne soirée",
+        "explanation": "Bonne soirée — Have a good evening. Use this when taking leave.",
+        "spokenText": null,
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-01-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": ["Bonne nuit", "Bonne soirée", "À bientôt"],
+        "answer": "Bonne soirée",
+        "explanation": "Bonne soirée — Have a good evening. Use this when taking leave.",
+        "spokenText": "Bonne soirée",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      }
+    ]
+  },
+  {
+    "id": "french-en-02",
+    "courseId": "french-en",
+    "title": "Introductions",
+    "subtitle": "Beginner introductions",
+    "unit": "First conversations",
+    "position": 1,
+    "color": "mint",
+    "icon": "message",
+    "words": [
+      {
+        "target": "Nom",
+        "meaning": "Name",
+        "reading": ""
+      },
+      {
+        "target": "Ami",
+        "meaning": "Male friend",
+        "reading": ""
+      },
+      {
+        "target": "Étudiant",
+        "meaning": "Male student",
+        "reading": ""
+      }
+    ],
+    "exercises": [
+      {
+        "id": "french-en-02-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Nom” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Male friend", "Name", "Male student"],
+        "answer": "Name",
+        "explanation": "“Nom” means “Name”.",
+        "spokenText": "Nom",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-02-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Ami” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Male student", "Male friend", "Name"],
+        "answer": "Male friend",
+        "explanation": "“Ami” means “Male friend”.",
+        "spokenText": "Ami",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-02-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Étudiant” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Name", "Male student", "Male friend"],
+        "answer": "Male student",
+        "explanation": "“Étudiant” means “Male student”.",
+        "spokenText": "Étudiant",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-02-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: My name is Anne",
+        "hint": "Tap the words in order.",
+        "options": ["m’appelle", "Anne", "Je"],
+        "answer": "Je m’appelle Anne",
+        "explanation": "Je m’appelle Anne — My name is Anne.",
+        "spokenText": null,
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": ["Je m'appelle Anne"]
+      },
+      {
+        "id": "french-en-02-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": ["Je suis étudiant", "Je m’appelle Anne", "Enchanté"],
+        "answer": "Je m’appelle Anne",
+        "explanation": "Je m’appelle Anne — My name is Anne.",
+        "spokenText": "Je m’appelle Anne",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": ["Je m'appelle Anne"]
+      }
+    ]
+  },
+  {
+    "id": "french-en-03",
+    "courseId": "french-en",
+    "title": "Numbers",
+    "subtitle": "Beginner numbers",
+    "unit": "First conversations",
+    "position": 2,
+    "color": "peach",
+    "icon": "message",
+    "words": [
+      {
+        "target": "Un",
+        "meaning": "One",
+        "reading": ""
+      },
+      {
+        "target": "Deux",
+        "meaning": "Two",
+        "reading": ""
+      },
+      {
+        "target": "Trois",
+        "meaning": "Three",
+        "reading": ""
+      }
+    ],
+    "exercises": [
+      {
+        "id": "french-en-03-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Un” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Two", "One", "Three"],
+        "answer": "One",
+        "explanation": "“Un” means “One”.",
+        "spokenText": "Un",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-03-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Deux” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Three", "Two", "One"],
+        "answer": "Two",
+        "explanation": "“Deux” means “Two”.",
+        "spokenText": "Deux",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-03-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Trois” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["One", "Three", "Two"],
+        "answer": "Three",
+        "explanation": "“Trois” means “Three”.",
+        "spokenText": "Trois",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-03-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: I have two books",
+        "hint": "Tap the words in order.",
+        "options": ["deux", "livres", "J’ai"],
+        "answer": "J’ai deux livres",
+        "explanation": "J’ai deux livres — I have two books.",
+        "spokenText": null,
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": ["J'ai deux livres"]
+      },
+      {
+        "id": "french-en-03-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": ["J’ai trois livres", "J’ai deux livres", "J’ai un livre"],
+        "answer": "J’ai deux livres",
+        "explanation": "J’ai deux livres — I have two books.",
+        "spokenText": "J’ai deux livres",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": ["J'ai deux livres"]
+      }
+    ]
+  },
+  {
+    "id": "french-en-04",
+    "courseId": "french-en",
+    "title": "Family",
+    "subtitle": "Beginner family",
+    "unit": "First conversations",
+    "position": 3,
+    "color": "blue",
+    "icon": "message",
+    "words": [
+      {
+        "target": "Mère",
+        "meaning": "Mother",
+        "reading": ""
+      },
+      {
+        "target": "Père",
+        "meaning": "Father",
+        "reading": ""
+      },
+      {
+        "target": "Sœur",
+        "meaning": "Sister",
+        "reading": ""
+      }
+    ],
+    "exercises": [
+      {
+        "id": "french-en-04-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Mère” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Father", "Mother", "Sister"],
+        "answer": "Mother",
+        "explanation": "“Mère” means “Mother”.",
+        "spokenText": "Mère",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-04-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Père” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Sister", "Father", "Mother"],
+        "answer": "Father",
+        "explanation": "“Père” means “Father”.",
+        "spokenText": "Père",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-04-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Sœur” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Mother", "Sister", "Father"],
+        "answer": "Sister",
+        "explanation": "“Sœur” means “Sister”.",
+        "spokenText": "Sœur",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-04-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: My sister is a student",
+        "hint": "Tap the words in order.",
+        "options": ["sœur", "est", "étudiante", "Ma"],
+        "answer": "Ma sœur est étudiante",
+        "explanation": "Ma sœur est étudiante — My sister is a student.",
+        "spokenText": null,
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-04-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": [
+          "Ma mère est professeure",
+          "Ma sœur est étudiante",
+          "Mon père est médecin"
+        ],
+        "answer": "Ma sœur est étudiante",
+        "explanation": "Ma sœur est étudiante — My sister is a student.",
+        "spokenText": "Ma sœur est étudiante",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      }
+    ]
+  },
+  {
+    "id": "french-en-05",
+    "courseId": "french-en",
+    "title": "Food",
+    "subtitle": "Beginner food",
+    "unit": "First conversations",
+    "position": 4,
+    "color": "violet",
+    "icon": "message",
+    "words": [
+      {
+        "target": "Eau",
+        "meaning": "Water",
+        "reading": ""
+      },
+      {
+        "target": "Pain",
+        "meaning": "Bread",
+        "reading": ""
+      },
+      {
+        "target": "Riz",
+        "meaning": "Rice",
+        "reading": ""
+      }
+    ],
+    "exercises": [
+      {
+        "id": "french-en-05-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Eau” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Bread", "Water", "Rice"],
+        "answer": "Water",
+        "explanation": "“Eau” means “Water”.",
+        "spokenText": "Eau",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-05-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Pain” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Rice", "Bread", "Water"],
+        "answer": "Bread",
+        "explanation": "“Pain” means “Bread”.",
+        "spokenText": "Pain",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-05-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Riz” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Water", "Rice", "Bread"],
+        "answer": "Rice",
+        "explanation": "“Riz” means “Rice”.",
+        "spokenText": "Riz",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-05-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: I would like some water",
+        "hint": "Tap the words in order.",
+        "options": ["voudrais", "de", "l’eau", "Je"],
+        "answer": "Je voudrais de l’eau",
+        "explanation": "Je voudrais de l’eau — I would like some water.",
+        "spokenText": null,
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": ["Je voudrais de l'eau"]
+      },
+      {
+        "id": "french-en-05-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": [
+          "Je voudrais du pain",
+          "Je voudrais de l’eau",
+          "Je voudrais du riz"
+        ],
+        "answer": "Je voudrais de l’eau",
+        "explanation": "Je voudrais de l’eau — I would like some water.",
+        "spokenText": "Je voudrais de l’eau",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": ["Je voudrais de l'eau"]
+      }
+    ]
+  },
+  {
+    "id": "french-en-06",
+    "courseId": "french-en",
+    "title": "Shopping",
+    "subtitle": "Beginner shopping",
+    "unit": "Out in the world",
+    "position": 5,
+    "color": "mint",
+    "icon": "message",
+    "words": [
+      {
+        "target": "Prix",
+        "meaning": "Price",
+        "reading": ""
+      },
+      {
+        "target": "Magasin",
+        "meaning": "Shop",
+        "reading": ""
+      },
+      {
+        "target": "Argent",
+        "meaning": "Money",
+        "reading": ""
+      }
+    ],
+    "exercises": [
+      {
+        "id": "french-en-06-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Prix” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Shop", "Price", "Money"],
+        "answer": "Price",
+        "explanation": "“Prix” means “Price”.",
+        "spokenText": "Prix",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-06-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Magasin” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Money", "Shop", "Price"],
+        "answer": "Shop",
+        "explanation": "“Magasin” means “Shop”.",
+        "spokenText": "Magasin",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-06-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Argent” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Price", "Money", "Shop"],
+        "answer": "Money",
+        "explanation": "“Argent” means “Money”.",
+        "spokenText": "Argent",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-06-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: How much does it cost?",
+        "hint": "Tap the words in order.",
+        "options": ["ça", "coûte", "?", "Combien"],
+        "answer": "Combien ça coûte ?",
+        "explanation": "Combien ça coûte ? — How much does it cost?.",
+        "spokenText": null,
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": ["Combien ça coûte?"]
+      },
+      {
+        "id": "french-en-06-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": [
+          "Où est le magasin ?",
+          "Combien ça coûte ?",
+          "Je voudrais du pain"
+        ],
+        "answer": "Combien ça coûte ?",
+        "explanation": "Combien ça coûte ? — How much does it cost?.",
+        "spokenText": "Combien ça coûte ?",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": ["Combien ça coûte?"]
+      }
+    ]
+  },
+  {
+    "id": "french-en-07",
+    "courseId": "french-en",
+    "title": "Time",
+    "subtitle": "Beginner time",
+    "unit": "Out in the world",
+    "position": 6,
+    "color": "peach",
+    "icon": "message",
+    "words": [
+      {
+        "target": "Aujourd’hui",
+        "meaning": "Today",
+        "reading": ""
+      },
+      {
+        "target": "Demain",
+        "meaning": "Tomorrow",
+        "reading": ""
+      },
+      {
+        "target": "Hier",
+        "meaning": "Yesterday",
+        "reading": ""
+      }
+    ],
+    "exercises": [
+      {
+        "id": "french-en-07-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Aujourd’hui” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Tomorrow", "Today", "Yesterday"],
+        "answer": "Today",
+        "explanation": "“Aujourd’hui” means “Today”.",
+        "spokenText": "Aujourd’hui",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-07-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Demain” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Yesterday", "Tomorrow", "Today"],
+        "answer": "Tomorrow",
+        "explanation": "“Demain” means “Tomorrow”.",
+        "spokenText": "Demain",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-07-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Hier” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Today", "Yesterday", "Tomorrow"],
+        "answer": "Yesterday",
+        "explanation": "“Hier” means “Yesterday”.",
+        "spokenText": "Hier",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-07-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: It is three o’clock",
+        "hint": "Tap the words in order.",
+        "options": ["est", "trois", "heures", "Il"],
+        "answer": "Il est trois heures",
+        "explanation": "Il est trois heures — It is three o’clock.",
+        "spokenText": null,
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-07-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": [
+          "Il est deux heures",
+          "Il est trois heures",
+          "Il est une heure"
+        ],
+        "answer": "Il est trois heures",
+        "explanation": "Il est trois heures — It is three o’clock.",
+        "spokenText": "Il est trois heures",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      }
+    ]
+  },
+  {
+    "id": "french-en-08",
+    "courseId": "french-en",
+    "title": "Directions",
+    "subtitle": "Beginner directions",
+    "unit": "Out in the world",
+    "position": 7,
+    "color": "blue",
+    "icon": "message",
+    "words": [
+      {
+        "target": "Gauche",
+        "meaning": "Left",
+        "reading": ""
+      },
+      {
+        "target": "Droite",
+        "meaning": "Right",
+        "reading": ""
+      },
+      {
+        "target": "Ici",
+        "meaning": "Here",
+        "reading": ""
+      }
+    ],
+    "exercises": [
+      {
+        "id": "french-en-08-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Gauche” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Right", "Left", "Here"],
+        "answer": "Left",
+        "explanation": "“Gauche” means “Left”.",
+        "spokenText": "Gauche",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-08-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Droite” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Here", "Right", "Left"],
+        "answer": "Right",
+        "explanation": "“Droite” means “Right”.",
+        "spokenText": "Droite",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-08-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Ici” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Left", "Here", "Right"],
+        "answer": "Here",
+        "explanation": "“Ici” means “Here”.",
+        "spokenText": "Ici",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-08-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: The station is on the right",
+        "hint": "Tap the words in order.",
+        "options": ["gare", "est", "à", "droite", "La"],
+        "answer": "La gare est à droite",
+        "explanation": "La gare est à droite — The station is on the right.",
+        "spokenText": null,
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-08-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": [
+          "La gare est à gauche",
+          "La gare est à droite",
+          "Le magasin est ici"
+        ],
+        "answer": "La gare est à droite",
+        "explanation": "La gare est à droite — The station is on the right.",
+        "spokenText": "La gare est à droite",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      }
+    ]
+  },
+  {
+    "id": "french-en-09",
+    "courseId": "french-en",
+    "title": "Travel",
+    "subtitle": "Beginner travel",
+    "unit": "Out in the world",
+    "position": 8,
+    "color": "violet",
+    "icon": "message",
+    "words": [
+      {
+        "target": "Train",
+        "meaning": "Train",
+        "reading": ""
+      },
+      {
+        "target": "Billet",
+        "meaning": "Ticket",
+        "reading": ""
+      },
+      {
+        "target": "Hôtel",
+        "meaning": "Hotel",
+        "reading": ""
+      }
+    ],
+    "exercises": [
+      {
+        "id": "french-en-09-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Train” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Ticket", "Train", "Hotel"],
+        "answer": "Train",
+        "explanation": "“Train” means “Train”.",
+        "spokenText": "Train",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-09-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Billet” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Hotel", "Ticket", "Train"],
+        "answer": "Ticket",
+        "explanation": "“Billet” means “Ticket”.",
+        "spokenText": "Billet",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-09-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Hôtel” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Train", "Hotel", "Ticket"],
+        "answer": "Hotel",
+        "explanation": "“Hôtel” means “Hotel”.",
+        "spokenText": "Hôtel",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-09-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: I need a ticket",
+        "hint": "Tap the words in order.",
+        "options": ["besoin", "d’un", "billet", "J’ai"],
+        "answer": "J’ai besoin d’un billet",
+        "explanation": "J’ai besoin d’un billet — I need a ticket.",
+        "spokenText": null,
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": ["J'ai besoin d'un billet"]
+      },
+      {
+        "id": "french-en-09-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": [
+          "J’ai besoin d’un hôtel",
+          "J’ai besoin d’un billet",
+          "Je voyage en train"
+        ],
+        "answer": "J’ai besoin d’un billet",
+        "explanation": "J’ai besoin d’un billet — I need a ticket.",
+        "spokenText": "J’ai besoin d’un billet",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": ["J'ai besoin d'un billet"]
+      }
+    ]
+  },
+  {
+    "id": "french-en-10",
+    "courseId": "french-en",
+    "title": "Everyday conversation",
+    "subtitle": "Beginner everyday conversation",
+    "unit": "Out in the world",
+    "position": 9,
+    "color": "mint",
+    "icon": "message",
+    "words": [
+      {
+        "target": "Oui",
+        "meaning": "Yes",
+        "reading": ""
+      },
+      {
+        "target": "Non",
+        "meaning": "No",
+        "reading": ""
+      },
+      {
+        "target": "S’il vous plaît",
+        "meaning": "Please (polite)",
+        "reading": ""
+      }
+    ],
+    "exercises": [
+      {
+        "id": "french-en-10-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Oui” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["No", "Yes", "Please (polite)"],
+        "answer": "Yes",
+        "explanation": "“Oui” means “Yes”.",
+        "spokenText": "Oui",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-10-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Non” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Please (polite)", "No", "Yes"],
+        "answer": "No",
+        "explanation": "“Non” means “No”.",
+        "spokenText": "Non",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-10-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “S’il vous plaît” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Yes", "Please (polite)", "No"],
+        "answer": "Please (polite)",
+        "explanation": "“S’il vous plaît” means “Please (polite)”.",
+        "spokenText": "S’il vous plaît",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-10-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: I do not understand",
+        "hint": "Tap the words in order.",
+        "options": ["ne", "comprends", "pas", "Je"],
+        "answer": "Je ne comprends pas",
+        "explanation": "Je ne comprends pas — I do not understand.",
+        "spokenText": null,
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "french-en-10-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": ["Je vais bien", "Je ne comprends pas", "À demain"],
+        "answer": "Je ne comprends pas",
+        "explanation": "Je ne comprends pas — I do not understand.",
+        "spokenText": "Je ne comprends pas",
+        "reading": null,
+        "tokenJoiner": " ",
+        "acceptedAnswers": []
+      }
+    ]
+  },
+  {
+    "id": "japanese-en-01",
+    "courseId": "japanese-en",
+    "title": "Greetings",
+    "subtitle": "Beginner greetings",
+    "unit": "First conversations",
+    "position": 0,
+    "color": "violet",
+    "icon": "message",
+    "words": [
+      {
+        "target": "こんにちは",
+        "meaning": "Hello",
+        "reading": "konnichiwa"
+      },
+      {
+        "target": "ありがとう",
+        "meaning": "Thank you (casual)",
+        "reading": "arigatō"
+      },
+      {
+        "target": "さようなら",
+        "meaning": "Goodbye",
+        "reading": "sayōnara"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "japanese-en-01-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “こんにちは” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Thank you (casual)", "Hello", "Goodbye"],
+        "answer": "Hello",
+        "explanation": "“こんにちは” means “Hello”.",
+        "spokenText": "こんにちは",
+        "reading": "konnichiwa",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-01-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “ありがとう” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Goodbye", "Thank you (casual)", "Hello"],
+        "answer": "Thank you (casual)",
+        "explanation": "“ありがとう” means “Thank you (casual)”.",
+        "spokenText": "ありがとう",
+        "reading": "arigatō",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-01-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “さようなら” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Hello", "Goodbye", "Thank you (casual)"],
+        "answer": "Goodbye",
+        "explanation": "“さようなら” means “Goodbye”.",
+        "spokenText": "さようなら",
+        "reading": "sayōnara",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-01-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: Good morning (polite)",
+        "hint": "Tap each token in order. Japanese tokens join without spaces.",
+        "options": ["ございます", "おはよう"],
+        "answer": "おはようございます",
+        "explanation": "おはようございます — Good morning (polite).",
+        "spokenText": null,
+        "reading": "ohayō gozaimasu",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-01-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": ["こんばんは", "おはようございます", "おやすみなさい"],
+        "answer": "おはようございます",
+        "explanation": "おはようございます — Good morning (polite).",
+        "spokenText": "おはようございます",
+        "reading": "ohayō gozaimasu",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      }
+    ]
+  },
+  {
+    "id": "japanese-en-02",
+    "courseId": "japanese-en",
+    "title": "Introductions",
+    "subtitle": "Beginner introductions",
+    "unit": "First conversations",
+    "position": 1,
+    "color": "mint",
+    "icon": "message",
+    "words": [
+      {
+        "target": "名前",
+        "meaning": "Name",
+        "reading": "namae"
+      },
+      {
+        "target": "友達",
+        "meaning": "Friend",
+        "reading": "tomodachi"
+      },
+      {
+        "target": "学生",
+        "meaning": "Student",
+        "reading": "gakusei"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "japanese-en-02-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “名前” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Friend", "Name", "Student"],
+        "answer": "Name",
+        "explanation": "“名前” means “Name”.",
+        "spokenText": "名前",
+        "reading": "namae",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-02-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “友達” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Student", "Friend", "Name"],
+        "answer": "Friend",
+        "explanation": "“友達” means “Friend”.",
+        "spokenText": "友達",
+        "reading": "tomodachi",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-02-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “学生” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Name", "Student", "Friend"],
+        "answer": "Student",
+        "explanation": "“学生” means “Student”.",
+        "spokenText": "学生",
+        "reading": "gakusei",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-02-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: I am Anna",
+        "hint": "Tap each token in order. Japanese tokens join without spaces.",
+        "options": ["は", "アンナ", "です", "私"],
+        "answer": "私はアンナです",
+        "explanation": "私はアンナです — I am Anna.",
+        "spokenText": null,
+        "reading": "watashi wa Anna desu",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-02-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": ["私は学生です", "私はアンナです", "よろしくお願いします"],
+        "answer": "私はアンナです",
+        "explanation": "私はアンナです — I am Anna.",
+        "spokenText": "私はアンナです",
+        "reading": "watashi wa Anna desu",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      }
+    ]
+  },
+  {
+    "id": "japanese-en-03",
+    "courseId": "japanese-en",
+    "title": "Numbers",
+    "subtitle": "Beginner numbers",
+    "unit": "First conversations",
+    "position": 2,
+    "color": "peach",
+    "icon": "message",
+    "words": [
+      {
+        "target": "一",
+        "meaning": "One",
+        "reading": "ichi"
+      },
+      {
+        "target": "二",
+        "meaning": "Two",
+        "reading": "ni"
+      },
+      {
+        "target": "三",
+        "meaning": "Three",
+        "reading": "san"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "japanese-en-03-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “一” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Two", "One", "Three"],
+        "answer": "One",
+        "explanation": "“一” means “One”.",
+        "spokenText": "一",
+        "reading": "ichi",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-03-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “二” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Three", "Two", "One"],
+        "answer": "Two",
+        "explanation": "“二” means “Two”.",
+        "spokenText": "二",
+        "reading": "ni",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-03-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “三” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["One", "Three", "Two"],
+        "answer": "Three",
+        "explanation": "“三” means “Three”.",
+        "spokenText": "三",
+        "reading": "san",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-03-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: There are two books",
+        "hint": "Tap each token in order. Japanese tokens join without spaces.",
+        "options": ["が", "二冊", "あります", "本"],
+        "answer": "本が二冊あります",
+        "explanation": "本が二冊あります — There are two books.",
+        "spokenText": null,
+        "reading": "hon ga nisatsu arimasu",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-03-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": ["本が三冊あります", "本が二冊あります", "本が一冊あります"],
+        "answer": "本が二冊あります",
+        "explanation": "本が二冊あります — There are two books.",
+        "spokenText": "本が二冊あります",
+        "reading": "hon ga nisatsu arimasu",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      }
+    ]
+  },
+  {
+    "id": "japanese-en-04",
+    "courseId": "japanese-en",
+    "title": "Family",
+    "subtitle": "Beginner family",
+    "unit": "First conversations",
+    "position": 3,
+    "color": "blue",
+    "icon": "message",
+    "words": [
+      {
+        "target": "母",
+        "meaning": "My mother",
+        "reading": "haha"
+      },
+      {
+        "target": "父",
+        "meaning": "My father",
+        "reading": "chichi"
+      },
+      {
+        "target": "妹",
+        "meaning": "My younger sister",
+        "reading": "imōto"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "japanese-en-04-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “母” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["My father", "My mother", "My younger sister"],
+        "answer": "My mother",
+        "explanation": "“母” means “My mother”.",
+        "spokenText": "母",
+        "reading": "haha",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-04-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “父” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["My younger sister", "My father", "My mother"],
+        "answer": "My father",
+        "explanation": "“父” means “My father”.",
+        "spokenText": "父",
+        "reading": "chichi",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-04-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “妹” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["My mother", "My younger sister", "My father"],
+        "answer": "My younger sister",
+        "explanation": "“妹” means “My younger sister”.",
+        "spokenText": "妹",
+        "reading": "imōto",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-04-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: My younger sister is a student",
+        "hint": "Tap each token in order. Japanese tokens join without spaces.",
+        "options": ["は", "学生", "です", "妹"],
+        "answer": "妹は学生です",
+        "explanation": "妹は学生です — My younger sister is a student.",
+        "spokenText": null,
+        "reading": "imōto wa gakusei desu",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-04-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": ["母は先生です", "妹は学生です", "父は医者です"],
+        "answer": "妹は学生です",
+        "explanation": "妹は学生です — My younger sister is a student.",
+        "spokenText": "妹は学生です",
+        "reading": "imōto wa gakusei desu",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      }
+    ]
+  },
+  {
+    "id": "japanese-en-05",
+    "courseId": "japanese-en",
+    "title": "Food",
+    "subtitle": "Beginner food",
+    "unit": "First conversations",
+    "position": 4,
+    "color": "violet",
+    "icon": "message",
+    "words": [
+      {
+        "target": "水",
+        "meaning": "Water",
+        "reading": "mizu"
+      },
+      {
+        "target": "パン",
+        "meaning": "Bread",
+        "reading": "pan"
+      },
+      {
+        "target": "ご飯",
+        "meaning": "Cooked rice / meal",
+        "reading": "gohan"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "japanese-en-05-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “水” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Bread", "Water", "Cooked rice / meal"],
+        "answer": "Water",
+        "explanation": "“水” means “Water”.",
+        "spokenText": "水",
+        "reading": "mizu",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-05-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “パン” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Cooked rice / meal", "Bread", "Water"],
+        "answer": "Bread",
+        "explanation": "“パン” means “Bread”.",
+        "spokenText": "パン",
+        "reading": "pan",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-05-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “ご飯” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Water", "Cooked rice / meal", "Bread"],
+        "answer": "Cooked rice / meal",
+        "explanation": "“ご飯” means “Cooked rice / meal”.",
+        "spokenText": "ご飯",
+        "reading": "gohan",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-05-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: Water, please",
+        "hint": "Tap each token in order. Japanese tokens join without spaces.",
+        "options": ["を", "ください", "水"],
+        "answer": "水をください",
+        "explanation": "水をください — Water, please.",
+        "spokenText": null,
+        "reading": "mizu o kudasai",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-05-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": ["パンをください", "水をください", "ご飯をください"],
+        "answer": "水をください",
+        "explanation": "水をください — Water, please.",
+        "spokenText": "水をください",
+        "reading": "mizu o kudasai",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      }
+    ]
+  },
+  {
+    "id": "japanese-en-06",
+    "courseId": "japanese-en",
+    "title": "Shopping",
+    "subtitle": "Beginner shopping",
+    "unit": "Out in the world",
+    "position": 5,
+    "color": "mint",
+    "icon": "message",
+    "words": [
+      {
+        "target": "値段",
+        "meaning": "Price",
+        "reading": "nedan"
+      },
+      {
+        "target": "店",
+        "meaning": "Shop",
+        "reading": "mise"
+      },
+      {
+        "target": "お金",
+        "meaning": "Money",
+        "reading": "okane"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "japanese-en-06-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “値段” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Shop", "Price", "Money"],
+        "answer": "Price",
+        "explanation": "“値段” means “Price”.",
+        "spokenText": "値段",
+        "reading": "nedan",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-06-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “店” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Money", "Shop", "Price"],
+        "answer": "Shop",
+        "explanation": "“店” means “Shop”.",
+        "spokenText": "店",
+        "reading": "mise",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-06-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “お金” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Price", "Money", "Shop"],
+        "answer": "Money",
+        "explanation": "“お金” means “Money”.",
+        "spokenText": "お金",
+        "reading": "okane",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-06-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: How much is this?",
+        "hint": "Tap each token in order. Japanese tokens join without spaces.",
+        "options": ["は", "いくら", "です", "か", "これ"],
+        "answer": "これはいくらですか",
+        "explanation": "これはいくらですか — How much is this?.",
+        "spokenText": null,
+        "reading": "kore wa ikura desu ka",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-06-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": ["店はどこですか", "これはいくらですか", "パンをください"],
+        "answer": "これはいくらですか",
+        "explanation": "これはいくらですか — How much is this?.",
+        "spokenText": "これはいくらですか",
+        "reading": "kore wa ikura desu ka",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      }
+    ]
+  },
+  {
+    "id": "japanese-en-07",
+    "courseId": "japanese-en",
+    "title": "Time",
+    "subtitle": "Beginner time",
+    "unit": "Out in the world",
+    "position": 6,
+    "color": "peach",
+    "icon": "message",
+    "words": [
+      {
+        "target": "今日",
+        "meaning": "Today",
+        "reading": "kyō"
+      },
+      {
+        "target": "明日",
+        "meaning": "Tomorrow",
+        "reading": "ashita"
+      },
+      {
+        "target": "昨日",
+        "meaning": "Yesterday",
+        "reading": "kinō"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "japanese-en-07-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “今日” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Tomorrow", "Today", "Yesterday"],
+        "answer": "Today",
+        "explanation": "“今日” means “Today”.",
+        "spokenText": "今日",
+        "reading": "kyō",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-07-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “明日” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Yesterday", "Tomorrow", "Today"],
+        "answer": "Tomorrow",
+        "explanation": "“明日” means “Tomorrow”.",
+        "spokenText": "明日",
+        "reading": "ashita",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-07-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “昨日” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Today", "Yesterday", "Tomorrow"],
+        "answer": "Yesterday",
+        "explanation": "“昨日” means “Yesterday”.",
+        "spokenText": "昨日",
+        "reading": "kinō",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-07-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: It is three o’clock now",
+        "hint": "Tap each token in order. Japanese tokens join without spaces.",
+        "options": ["は", "三時", "です", "今"],
+        "answer": "今は三時です",
+        "explanation": "今は三時です — It is three o’clock now.",
+        "spokenText": null,
+        "reading": "ima wa sanji desu",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-07-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": ["今は二時です", "今は三時です", "今は一時です"],
+        "answer": "今は三時です",
+        "explanation": "今は三時です — It is three o’clock now.",
+        "spokenText": "今は三時です",
+        "reading": "ima wa sanji desu",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      }
+    ]
+  },
+  {
+    "id": "japanese-en-08",
+    "courseId": "japanese-en",
+    "title": "Directions",
+    "subtitle": "Beginner directions",
+    "unit": "Out in the world",
+    "position": 7,
+    "color": "blue",
+    "icon": "message",
+    "words": [
+      {
+        "target": "左",
+        "meaning": "Left",
+        "reading": "hidari"
+      },
+      {
+        "target": "右",
+        "meaning": "Right",
+        "reading": "migi"
+      },
+      {
+        "target": "ここ",
+        "meaning": "Here",
+        "reading": "koko"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "japanese-en-08-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “左” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Right", "Left", "Here"],
+        "answer": "Left",
+        "explanation": "“左” means “Left”.",
+        "spokenText": "左",
+        "reading": "hidari",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-08-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “右” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Here", "Right", "Left"],
+        "answer": "Right",
+        "explanation": "“右” means “Right”.",
+        "spokenText": "右",
+        "reading": "migi",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-08-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “ここ” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Left", "Here", "Right"],
+        "answer": "Here",
+        "explanation": "“ここ” means “Here”.",
+        "spokenText": "ここ",
+        "reading": "koko",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-08-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: The station is on the right",
+        "hint": "Tap each token in order. Japanese tokens join without spaces.",
+        "options": ["は", "右", "に", "あります", "駅"],
+        "answer": "駅は右にあります",
+        "explanation": "駅は右にあります — The station is on the right.",
+        "spokenText": null,
+        "reading": "eki wa migi ni arimasu",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-08-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": ["駅は左にあります", "駅は右にあります", "店はここです"],
+        "answer": "駅は右にあります",
+        "explanation": "駅は右にあります — The station is on the right.",
+        "spokenText": "駅は右にあります",
+        "reading": "eki wa migi ni arimasu",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      }
+    ]
+  },
+  {
+    "id": "japanese-en-09",
+    "courseId": "japanese-en",
+    "title": "Travel",
+    "subtitle": "Beginner travel",
+    "unit": "Out in the world",
+    "position": 8,
+    "color": "violet",
+    "icon": "message",
+    "words": [
+      {
+        "target": "電車",
+        "meaning": "Train",
+        "reading": "densha"
+      },
+      {
+        "target": "切符",
+        "meaning": "Ticket",
+        "reading": "kippu"
+      },
+      {
+        "target": "ホテル",
+        "meaning": "Hotel",
+        "reading": "hoteru"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "japanese-en-09-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “電車” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Ticket", "Train", "Hotel"],
+        "answer": "Train",
+        "explanation": "“電車” means “Train”.",
+        "spokenText": "電車",
+        "reading": "densha",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-09-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “切符” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Hotel", "Ticket", "Train"],
+        "answer": "Ticket",
+        "explanation": "“切符” means “Ticket”.",
+        "spokenText": "切符",
+        "reading": "kippu",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-09-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “ホテル” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Train", "Hotel", "Ticket"],
+        "answer": "Hotel",
+        "explanation": "“ホテル” means “Hotel”.",
+        "spokenText": "ホテル",
+        "reading": "hoteru",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-09-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: One ticket, please",
+        "hint": "Tap each token in order. Japanese tokens join without spaces.",
+        "options": ["を", "一枚", "ください", "切符"],
+        "answer": "切符を一枚ください",
+        "explanation": "切符を一枚ください — One ticket, please.",
+        "spokenText": null,
+        "reading": "kippu o ichimai kudasai",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-09-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": [
+          "ホテルはどこですか",
+          "切符を一枚ください",
+          "電車で行きます"
+        ],
+        "answer": "切符を一枚ください",
+        "explanation": "切符を一枚ください — One ticket, please.",
+        "spokenText": "切符を一枚ください",
+        "reading": "kippu o ichimai kudasai",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      }
+    ]
+  },
+  {
+    "id": "japanese-en-10",
+    "courseId": "japanese-en",
+    "title": "Everyday conversation",
+    "subtitle": "Beginner everyday conversation",
+    "unit": "Out in the world",
+    "position": 9,
+    "color": "mint",
+    "icon": "message",
+    "words": [
+      {
+        "target": "はい",
+        "meaning": "Yes",
+        "reading": "hai"
+      },
+      {
+        "target": "いいえ",
+        "meaning": "No",
+        "reading": "iie"
+      },
+      {
+        "target": "お願いします",
+        "meaning": "Please / a polite request",
+        "reading": "onegai shimasu"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "japanese-en-10-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “はい” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["No", "Yes", "Please / a polite request"],
+        "answer": "Yes",
+        "explanation": "“はい” means “Yes”.",
+        "spokenText": "はい",
+        "reading": "hai",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-10-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “いいえ” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Please / a polite request", "No", "Yes"],
+        "answer": "No",
+        "explanation": "“いいえ” means “No”.",
+        "spokenText": "いいえ",
+        "reading": "iie",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-10-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “お願いします” mean?",
+        "hint": "Choose the English meaning.",
+        "options": ["Yes", "Please / a polite request", "No"],
+        "answer": "Please / a polite request",
+        "explanation": "“お願いします” means “Please / a polite request”.",
+        "spokenText": "お願いします",
+        "reading": "onegai shimasu",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-10-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "Build: I do not understand",
+        "hint": "Tap each token in order. Japanese tokens join without spaces.",
+        "options": ["ません", "わかり"],
+        "answer": "わかりません",
+        "explanation": "わかりません — I do not understand.",
+        "spokenText": null,
+        "reading": "wakarimasen",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      },
+      {
+        "id": "japanese-en-10-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "Choose the phrase you hear. If audio is unavailable, read the fallback.",
+        "options": ["元気です", "わかりません", "また明日"],
+        "answer": "わかりません",
+        "explanation": "わかりません — I do not understand.",
+        "spokenText": "わかりません",
+        "reading": "wakarimasen",
+        "tokenJoiner": "",
+        "acceptedAnswers": []
+      }
+    ]
+  }
+]

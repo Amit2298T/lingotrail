@@ -1,0 +1,2019 @@
+[
+  {
+    "id": "hello",
+    "title": "First words",
+    "subtitle": "Start a conversation",
+    "unit": "Everyday basics",
+    "position": 0,
+    "color": "violet",
+    "icon": "message",
+    "words": [
+      {
+        "english": "Hello",
+        "hindi": "नमस्ते"
+      },
+      {
+        "english": "Thank you",
+        "hindi": "धन्यवाद"
+      },
+      {
+        "english": "Goodbye",
+        "hindi": "अलविदा"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "hello-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Hello” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "धन्यवाद",
+          "अलविदा",
+          "नमस्ते"
+        ],
+        "answer": "नमस्ते",
+        "explanation": "“Hello” का अर्थ “नमस्ते” है।",
+        "spokenText": "Hello"
+      },
+      {
+        "id": "hello-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Thank you” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "अलविदा",
+          "नमस्ते",
+          "धन्यवाद"
+        ],
+        "answer": "धन्यवाद",
+        "explanation": "“Thank you” का अर्थ “धन्यवाद” है।",
+        "spokenText": "Thank you"
+      },
+      {
+        "id": "hello-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Goodbye” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "नमस्ते",
+          "धन्यवाद",
+          "अलविदा"
+        ],
+        "answer": "अलविदा",
+        "explanation": "“Goodbye” का अर्थ “अलविदा” है।",
+        "spokenText": "Goodbye"
+      },
+      {
+        "id": "hello-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "सुप्रभात",
+        "hint": "Tap the words to build the English sentence.",
+        "options": [
+          "Good",
+          "morning"
+        ],
+        "answer": "Good morning",
+        "explanation": "सुप्रभात → Good morning.",
+        "spokenText": null
+      },
+      {
+        "id": "hello-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "सुनिए और सही वाक्य चुनिए।",
+        "options": [
+          "Good morning",
+          "See you later",
+          "Have a nice day"
+        ],
+        "answer": "Good morning",
+        "explanation": "You heard “Good morning” — सुप्रभात.",
+        "spokenText": "Good morning"
+      }
+    ]
+  },
+  {
+    "id": "names",
+    "title": "Nice to meet you",
+    "subtitle": "Introduce yourself",
+    "unit": "Everyday basics",
+    "position": 1,
+    "color": "mint",
+    "icon": "user",
+    "words": [
+      {
+        "english": "Name",
+        "hindi": "नाम"
+      },
+      {
+        "english": "Friend",
+        "hindi": "दोस्त"
+      },
+      {
+        "english": "Please",
+        "hindi": "कृपया"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "names-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Name” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "कृपया",
+          "नाम",
+          "दोस्त"
+        ],
+        "answer": "नाम",
+        "explanation": "“Name” का अर्थ “नाम” है।",
+        "spokenText": "Name"
+      },
+      {
+        "id": "names-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Friend” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "नाम",
+          "दोस्त",
+          "कृपया"
+        ],
+        "answer": "दोस्त",
+        "explanation": "“Friend” का अर्थ “दोस्त” है।",
+        "spokenText": "Friend"
+      },
+      {
+        "id": "names-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Please” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "दोस्त",
+          "कृपया",
+          "नाम"
+        ],
+        "answer": "कृपया",
+        "explanation": "“Please” का अर्थ “कृपया” है।",
+        "spokenText": "Please"
+      },
+      {
+        "id": "names-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "मेरा नाम अमित है",
+        "hint": "Tap the words to build the English sentence.",
+        "options": [
+          "is",
+          "Amit",
+          "My",
+          "name"
+        ],
+        "answer": "My name is Amit",
+        "explanation": "मेरा नाम अमित है → My name is Amit.",
+        "spokenText": null
+      },
+      {
+        "id": "names-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "सुनिए और सही वाक्य चुनिए।",
+        "options": [
+          "See you later",
+          "Have a nice day",
+          "My name is Amit"
+        ],
+        "answer": "My name is Amit",
+        "explanation": "You heard “My name is Amit” — मेरा नाम अमित है.",
+        "spokenText": "My name is Amit"
+      }
+    ]
+  },
+  {
+    "id": "family",
+    "title": "People around you",
+    "subtitle": "Talk about family",
+    "unit": "Everyday basics",
+    "position": 2,
+    "color": "peach",
+    "icon": "users",
+    "words": [
+      {
+        "english": "Mother",
+        "hindi": "माँ"
+      },
+      {
+        "english": "Father",
+        "hindi": "पिता"
+      },
+      {
+        "english": "Sister",
+        "hindi": "बहन"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "family-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Mother” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "माँ",
+          "पिता",
+          "बहन"
+        ],
+        "answer": "माँ",
+        "explanation": "“Mother” का अर्थ “माँ” है।",
+        "spokenText": "Mother"
+      },
+      {
+        "id": "family-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Father” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "पिता",
+          "बहन",
+          "माँ"
+        ],
+        "answer": "पिता",
+        "explanation": "“Father” का अर्थ “पिता” है।",
+        "spokenText": "Father"
+      },
+      {
+        "id": "family-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Sister” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "बहन",
+          "माँ",
+          "पिता"
+        ],
+        "answer": "बहन",
+        "explanation": "“Sister” का अर्थ “बहन” है।",
+        "spokenText": "Sister"
+      },
+      {
+        "id": "family-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "यह मेरा परिवार है",
+        "hint": "Tap the words to build the English sentence.",
+        "options": [
+          "my",
+          "family",
+          "This",
+          "is"
+        ],
+        "answer": "This is my family",
+        "explanation": "यह मेरा परिवार है → This is my family.",
+        "spokenText": null
+      },
+      {
+        "id": "family-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "सुनिए और सही वाक्य चुनिए।",
+        "options": [
+          "Have a nice day",
+          "This is my family",
+          "See you later"
+        ],
+        "answer": "This is my family",
+        "explanation": "You heard “This is my family” — यह मेरा परिवार है.",
+        "spokenText": "This is my family"
+      }
+    ]
+  },
+  {
+    "id": "numbers",
+    "title": "Make it count",
+    "subtitle": "Learn small numbers",
+    "unit": "Everyday basics",
+    "position": 3,
+    "color": "blue",
+    "icon": "hash",
+    "words": [
+      {
+        "english": "One",
+        "hindi": "एक"
+      },
+      {
+        "english": "Two",
+        "hindi": "दो"
+      },
+      {
+        "english": "Three",
+        "hindi": "तीन"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "numbers-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “One” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "दो",
+          "तीन",
+          "एक"
+        ],
+        "answer": "एक",
+        "explanation": "“One” का अर्थ “एक” है।",
+        "spokenText": "One"
+      },
+      {
+        "id": "numbers-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Two” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "तीन",
+          "एक",
+          "दो"
+        ],
+        "answer": "दो",
+        "explanation": "“Two” का अर्थ “दो” है।",
+        "spokenText": "Two"
+      },
+      {
+        "id": "numbers-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Three” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "एक",
+          "दो",
+          "तीन"
+        ],
+        "answer": "तीन",
+        "explanation": "“Three” का अर्थ “तीन” है।",
+        "spokenText": "Three"
+      },
+      {
+        "id": "numbers-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "मेरे पास दो किताबें हैं",
+        "hint": "Tap the words to build the English sentence.",
+        "options": [
+          "two",
+          "books",
+          "I",
+          "have"
+        ],
+        "answer": "I have two books",
+        "explanation": "मेरे पास दो किताबें हैं → I have two books.",
+        "spokenText": null
+      },
+      {
+        "id": "numbers-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "सुनिए और सही वाक्य चुनिए।",
+        "options": [
+          "I have two books",
+          "See you later",
+          "Have a nice day"
+        ],
+        "answer": "I have two books",
+        "explanation": "You heard “I have two books” — मेरे पास दो किताबें हैं.",
+        "spokenText": "I have two books"
+      }
+    ]
+  },
+  {
+    "id": "home",
+    "title": "At home",
+    "subtitle": "Name familiar things",
+    "unit": "Everyday basics",
+    "position": 4,
+    "color": "violet",
+    "icon": "home",
+    "words": [
+      {
+        "english": "Door",
+        "hindi": "दरवाज़ा"
+      },
+      {
+        "english": "Window",
+        "hindi": "खिड़की"
+      },
+      {
+        "english": "Room",
+        "hindi": "कमरा"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "home-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Door” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "कमरा",
+          "दरवाज़ा",
+          "खिड़की"
+        ],
+        "answer": "दरवाज़ा",
+        "explanation": "“Door” का अर्थ “दरवाज़ा” है।",
+        "spokenText": "Door"
+      },
+      {
+        "id": "home-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Window” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "दरवाज़ा",
+          "खिड़की",
+          "कमरा"
+        ],
+        "answer": "खिड़की",
+        "explanation": "“Window” का अर्थ “खिड़की” है।",
+        "spokenText": "Window"
+      },
+      {
+        "id": "home-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Room” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "खिड़की",
+          "कमरा",
+          "दरवाज़ा"
+        ],
+        "answer": "कमरा",
+        "explanation": "“Room” का अर्थ “कमरा” है।",
+        "spokenText": "Room"
+      },
+      {
+        "id": "home-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "दरवाज़ा खुला है",
+        "hint": "Tap the words to build the English sentence.",
+        "options": [
+          "is",
+          "open",
+          "The",
+          "door"
+        ],
+        "answer": "The door is open",
+        "explanation": "दरवाज़ा खुला है → The door is open.",
+        "spokenText": null
+      },
+      {
+        "id": "home-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "सुनिए और सही वाक्य चुनिए।",
+        "options": [
+          "See you later",
+          "Have a nice day",
+          "The door is open"
+        ],
+        "answer": "The door is open",
+        "explanation": "You heard “The door is open” — दरवाज़ा खुला है.",
+        "spokenText": "The door is open"
+      }
+    ]
+  },
+  {
+    "id": "breakfast",
+    "title": "A fresh start",
+    "subtitle": "Talk about breakfast",
+    "unit": "Food & daily life",
+    "position": 5,
+    "color": "peach",
+    "icon": "coffee",
+    "words": [
+      {
+        "english": "Milk",
+        "hindi": "दूध"
+      },
+      {
+        "english": "Bread",
+        "hindi": "ब्रेड"
+      },
+      {
+        "english": "Tea",
+        "hindi": "चाय"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "breakfast-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Milk” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "दूध",
+          "ब्रेड",
+          "चाय"
+        ],
+        "answer": "दूध",
+        "explanation": "“Milk” का अर्थ “दूध” है।",
+        "spokenText": "Milk"
+      },
+      {
+        "id": "breakfast-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Bread” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "ब्रेड",
+          "चाय",
+          "दूध"
+        ],
+        "answer": "ब्रेड",
+        "explanation": "“Bread” का अर्थ “ब्रेड” है।",
+        "spokenText": "Bread"
+      },
+      {
+        "id": "breakfast-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Tea” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "चाय",
+          "दूध",
+          "ब्रेड"
+        ],
+        "answer": "चाय",
+        "explanation": "“Tea” का अर्थ “चाय” है।",
+        "spokenText": "Tea"
+      },
+      {
+        "id": "breakfast-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "मैं चाय पीता हूँ",
+        "hint": "Tap the words to build the English sentence.",
+        "options": [
+          "tea",
+          "I",
+          "drink"
+        ],
+        "answer": "I drink tea",
+        "explanation": "मैं चाय पीता हूँ → I drink tea.",
+        "spokenText": null
+      },
+      {
+        "id": "breakfast-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "सुनिए और सही वाक्य चुनिए।",
+        "options": [
+          "Have a nice day",
+          "I drink tea",
+          "See you later"
+        ],
+        "answer": "I drink tea",
+        "explanation": "You heard “I drink tea” — मैं चाय पीता हूँ.",
+        "spokenText": "I drink tea"
+      }
+    ]
+  },
+  {
+    "id": "food",
+    "title": "At the table",
+    "subtitle": "Choose what to eat",
+    "unit": "Food & daily life",
+    "position": 6,
+    "color": "mint",
+    "icon": "utensils",
+    "words": [
+      {
+        "english": "Rice",
+        "hindi": "चावल"
+      },
+      {
+        "english": "Water",
+        "hindi": "पानी"
+      },
+      {
+        "english": "Fruit",
+        "hindi": "फल"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "food-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Rice” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "पानी",
+          "फल",
+          "चावल"
+        ],
+        "answer": "चावल",
+        "explanation": "“Rice” का अर्थ “चावल” है।",
+        "spokenText": "Rice"
+      },
+      {
+        "id": "food-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Water” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "फल",
+          "चावल",
+          "पानी"
+        ],
+        "answer": "पानी",
+        "explanation": "“Water” का अर्थ “पानी” है।",
+        "spokenText": "Water"
+      },
+      {
+        "id": "food-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Fruit” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "चावल",
+          "पानी",
+          "फल"
+        ],
+        "answer": "फल",
+        "explanation": "“Fruit” का अर्थ “फल” है।",
+        "spokenText": "Fruit"
+      },
+      {
+        "id": "food-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "मुझे पानी चाहिए",
+        "hint": "Tap the words to build the English sentence.",
+        "options": [
+          "like",
+          "water",
+          "I",
+          "would"
+        ],
+        "answer": "I would like water",
+        "explanation": "मुझे पानी चाहिए → I would like water.",
+        "spokenText": null
+      },
+      {
+        "id": "food-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "सुनिए और सही वाक्य चुनिए।",
+        "options": [
+          "I would like water",
+          "See you later",
+          "Have a nice day"
+        ],
+        "answer": "I would like water",
+        "explanation": "You heard “I would like water” — मुझे पानी चाहिए.",
+        "spokenText": "I would like water"
+      }
+    ]
+  },
+  {
+    "id": "shopping",
+    "title": "At the shop",
+    "subtitle": "Ask for everyday items",
+    "unit": "Food & daily life",
+    "position": 7,
+    "color": "blue",
+    "icon": "bag",
+    "words": [
+      {
+        "english": "Price",
+        "hindi": "कीमत"
+      },
+      {
+        "english": "Bag",
+        "hindi": "थैला"
+      },
+      {
+        "english": "Money",
+        "hindi": "पैसे"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "shopping-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Price” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "पैसे",
+          "कीमत",
+          "थैला"
+        ],
+        "answer": "कीमत",
+        "explanation": "“Price” का अर्थ “कीमत” है।",
+        "spokenText": "Price"
+      },
+      {
+        "id": "shopping-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Bag” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "कीमत",
+          "थैला",
+          "पैसे"
+        ],
+        "answer": "थैला",
+        "explanation": "“Bag” का अर्थ “थैला” है।",
+        "spokenText": "Bag"
+      },
+      {
+        "id": "shopping-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Money” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "थैला",
+          "पैसे",
+          "कीमत"
+        ],
+        "answer": "पैसे",
+        "explanation": "“Money” का अर्थ “पैसे” है।",
+        "spokenText": "Money"
+      },
+      {
+        "id": "shopping-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "यह कितने का है",
+        "hint": "Tap the words to build the English sentence.",
+        "options": [
+          "is",
+          "this",
+          "How",
+          "much"
+        ],
+        "answer": "How much is this",
+        "explanation": "यह कितने का है → How much is this.",
+        "spokenText": null
+      },
+      {
+        "id": "shopping-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "सुनिए और सही वाक्य चुनिए।",
+        "options": [
+          "See you later",
+          "Have a nice day",
+          "How much is this"
+        ],
+        "answer": "How much is this",
+        "explanation": "You heard “How much is this” — यह कितने का है.",
+        "spokenText": "How much is this"
+      }
+    ]
+  },
+  {
+    "id": "time",
+    "title": "Time to practise",
+    "subtitle": "Talk about your day",
+    "unit": "Food & daily life",
+    "position": 8,
+    "color": "violet",
+    "icon": "clock",
+    "words": [
+      {
+        "english": "Today",
+        "hindi": "आज"
+      },
+      {
+        "english": "Tomorrow",
+        "hindi": "कल (आने वाला दिन)"
+      },
+      {
+        "english": "Morning",
+        "hindi": "सुबह"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "time-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Today” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "आज",
+          "कल (आने वाला दिन)",
+          "सुबह"
+        ],
+        "answer": "आज",
+        "explanation": "“Today” का अर्थ “आज” है।",
+        "spokenText": "Today"
+      },
+      {
+        "id": "time-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Tomorrow” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "कल (आने वाला दिन)",
+          "सुबह",
+          "आज"
+        ],
+        "answer": "कल (आने वाला दिन)",
+        "explanation": "“Tomorrow” का अर्थ “कल (आने वाला दिन)” है।",
+        "spokenText": "Tomorrow"
+      },
+      {
+        "id": "time-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Morning” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "सुबह",
+          "आज",
+          "कल (आने वाला दिन)"
+        ],
+        "answer": "सुबह",
+        "explanation": "“Morning” का अर्थ “सुबह” है।",
+        "spokenText": "Morning"
+      },
+      {
+        "id": "time-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "क्या समय हुआ है",
+        "hint": "Tap the words to build the English sentence.",
+        "options": [
+          "is",
+          "it",
+          "What",
+          "time"
+        ],
+        "answer": "What time is it",
+        "explanation": "क्या समय हुआ है → What time is it.",
+        "spokenText": null
+      },
+      {
+        "id": "time-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "सुनिए और सही वाक्य चुनिए।",
+        "options": [
+          "Have a nice day",
+          "What time is it",
+          "See you later"
+        ],
+        "answer": "What time is it",
+        "explanation": "You heard “What time is it” — क्या समय हुआ है.",
+        "spokenText": "What time is it"
+      }
+    ]
+  },
+  {
+    "id": "weather",
+    "title": "Rain or shine",
+    "subtitle": "Describe the weather",
+    "unit": "Food & daily life",
+    "position": 9,
+    "color": "peach",
+    "icon": "sun",
+    "words": [
+      {
+        "english": "Rain",
+        "hindi": "बारिश"
+      },
+      {
+        "english": "Cold",
+        "hindi": "ठंडा"
+      },
+      {
+        "english": "Hot",
+        "hindi": "गर्म"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "weather-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Rain” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "ठंडा",
+          "गर्म",
+          "बारिश"
+        ],
+        "answer": "बारिश",
+        "explanation": "“Rain” का अर्थ “बारिश” है।",
+        "spokenText": "Rain"
+      },
+      {
+        "id": "weather-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Cold” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "गर्म",
+          "बारिश",
+          "ठंडा"
+        ],
+        "answer": "ठंडा",
+        "explanation": "“Cold” का अर्थ “ठंडा” है।",
+        "spokenText": "Cold"
+      },
+      {
+        "id": "weather-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Hot” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "बारिश",
+          "ठंडा",
+          "गर्म"
+        ],
+        "answer": "गर्म",
+        "explanation": "“Hot” का अर्थ “गर्म” है।",
+        "spokenText": "Hot"
+      },
+      {
+        "id": "weather-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "आज बारिश हो रही है",
+        "hint": "Tap the words to build the English sentence.",
+        "options": [
+          "raining",
+          "today",
+          "It",
+          "is"
+        ],
+        "answer": "It is raining today",
+        "explanation": "आज बारिश हो रही है → It is raining today.",
+        "spokenText": null
+      },
+      {
+        "id": "weather-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "सुनिए और सही वाक्य चुनिए।",
+        "options": [
+          "It is raining today",
+          "See you later",
+          "Have a nice day"
+        ],
+        "answer": "It is raining today",
+        "explanation": "You heard “It is raining today” — आज बारिश हो रही है.",
+        "spokenText": "It is raining today"
+      }
+    ]
+  },
+  {
+    "id": "travel",
+    "title": "Out in the world",
+    "subtitle": "Get ready to travel",
+    "unit": "Out & about",
+    "position": 10,
+    "color": "blue",
+    "icon": "plane",
+    "words": [
+      {
+        "english": "Ticket",
+        "hindi": "टिकट"
+      },
+      {
+        "english": "Train",
+        "hindi": "रेलगाड़ी"
+      },
+      {
+        "english": "Station",
+        "hindi": "स्टेशन"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "travel-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Ticket” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "स्टेशन",
+          "टिकट",
+          "रेलगाड़ी"
+        ],
+        "answer": "टिकट",
+        "explanation": "“Ticket” का अर्थ “टिकट” है।",
+        "spokenText": "Ticket"
+      },
+      {
+        "id": "travel-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Train” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "टिकट",
+          "रेलगाड़ी",
+          "स्टेशन"
+        ],
+        "answer": "रेलगाड़ी",
+        "explanation": "“Train” का अर्थ “रेलगाड़ी” है।",
+        "spokenText": "Train"
+      },
+      {
+        "id": "travel-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Station” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "रेलगाड़ी",
+          "स्टेशन",
+          "टिकट"
+        ],
+        "answer": "स्टेशन",
+        "explanation": "“Station” का अर्थ “स्टेशन” है।",
+        "spokenText": "Station"
+      },
+      {
+        "id": "travel-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "मुझे एक टिकट चाहिए",
+        "hint": "Tap the words to build the English sentence.",
+        "options": [
+          "a",
+          "ticket",
+          "I",
+          "need"
+        ],
+        "answer": "I need a ticket",
+        "explanation": "मुझे एक टिकट चाहिए → I need a ticket.",
+        "spokenText": null
+      },
+      {
+        "id": "travel-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "सुनिए और सही वाक्य चुनिए।",
+        "options": [
+          "See you later",
+          "Have a nice day",
+          "I need a ticket"
+        ],
+        "answer": "I need a ticket",
+        "explanation": "You heard “I need a ticket” — मुझे एक टिकट चाहिए.",
+        "spokenText": "I need a ticket"
+      }
+    ]
+  },
+  {
+    "id": "directions",
+    "title": "Find your way",
+    "subtitle": "Ask for directions",
+    "unit": "Out & about",
+    "position": 11,
+    "color": "mint",
+    "icon": "compass",
+    "words": [
+      {
+        "english": "Left",
+        "hindi": "बायाँ"
+      },
+      {
+        "english": "Right",
+        "hindi": "दायाँ"
+      },
+      {
+        "english": "Straight",
+        "hindi": "सीधा"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "directions-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Left” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "बायाँ",
+          "दायाँ",
+          "सीधा"
+        ],
+        "answer": "बायाँ",
+        "explanation": "“Left” का अर्थ “बायाँ” है।",
+        "spokenText": "Left"
+      },
+      {
+        "id": "directions-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Right” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "दायाँ",
+          "सीधा",
+          "बायाँ"
+        ],
+        "answer": "दायाँ",
+        "explanation": "“Right” का अर्थ “दायाँ” है।",
+        "spokenText": "Right"
+      },
+      {
+        "id": "directions-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Straight” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "सीधा",
+          "बायाँ",
+          "दायाँ"
+        ],
+        "answer": "सीधा",
+        "explanation": "“Straight” का अर्थ “सीधा” है।",
+        "spokenText": "Straight"
+      },
+      {
+        "id": "directions-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "कृपया बाएँ मुड़ें",
+        "hint": "Tap the words to build the English sentence.",
+        "options": [
+          "left",
+          "Please",
+          "turn"
+        ],
+        "answer": "Please turn left",
+        "explanation": "कृपया बाएँ मुड़ें → Please turn left.",
+        "spokenText": null
+      },
+      {
+        "id": "directions-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "सुनिए और सही वाक्य चुनिए।",
+        "options": [
+          "Have a nice day",
+          "Please turn left",
+          "See you later"
+        ],
+        "answer": "Please turn left",
+        "explanation": "You heard “Please turn left” — कृपया बाएँ मुड़ें.",
+        "spokenText": "Please turn left"
+      }
+    ]
+  },
+  {
+    "id": "city",
+    "title": "Around the city",
+    "subtitle": "Find important places",
+    "unit": "Out & about",
+    "position": 12,
+    "color": "peach",
+    "icon": "map",
+    "words": [
+      {
+        "english": "School",
+        "hindi": "विद्यालय"
+      },
+      {
+        "english": "Hospital",
+        "hindi": "अस्पताल"
+      },
+      {
+        "english": "Market",
+        "hindi": "बाज़ार"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "city-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “School” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "अस्पताल",
+          "बाज़ार",
+          "विद्यालय"
+        ],
+        "answer": "विद्यालय",
+        "explanation": "“School” का अर्थ “विद्यालय” है।",
+        "spokenText": "School"
+      },
+      {
+        "id": "city-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Hospital” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "बाज़ार",
+          "विद्यालय",
+          "अस्पताल"
+        ],
+        "answer": "अस्पताल",
+        "explanation": "“Hospital” का अर्थ “अस्पताल” है।",
+        "spokenText": "Hospital"
+      },
+      {
+        "id": "city-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Market” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "विद्यालय",
+          "अस्पताल",
+          "बाज़ार"
+        ],
+        "answer": "बाज़ार",
+        "explanation": "“Market” का अर्थ “बाज़ार” है।",
+        "spokenText": "Market"
+      },
+      {
+        "id": "city-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "स्टेशन कहाँ है",
+        "hint": "Tap the words to build the English sentence.",
+        "options": [
+          "the",
+          "station",
+          "Where",
+          "is"
+        ],
+        "answer": "Where is the station",
+        "explanation": "स्टेशन कहाँ है → Where is the station.",
+        "spokenText": null
+      },
+      {
+        "id": "city-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "सुनिए और सही वाक्य चुनिए।",
+        "options": [
+          "Where is the station",
+          "See you later",
+          "Have a nice day"
+        ],
+        "answer": "Where is the station",
+        "explanation": "You heard “Where is the station” — स्टेशन कहाँ है.",
+        "spokenText": "Where is the station"
+      }
+    ]
+  },
+  {
+    "id": "help",
+    "title": "A little help",
+    "subtitle": "Ask when you need support",
+    "unit": "Out & about",
+    "position": 13,
+    "color": "violet",
+    "icon": "heart",
+    "words": [
+      {
+        "english": "Help",
+        "hindi": "मदद"
+      },
+      {
+        "english": "Sorry",
+        "hindi": "माफ़ कीजिए"
+      },
+      {
+        "english": "Slowly",
+        "hindi": "धीरे"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "help-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Help” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "धीरे",
+          "मदद",
+          "माफ़ कीजिए"
+        ],
+        "answer": "मदद",
+        "explanation": "“Help” का अर्थ “मदद” है।",
+        "spokenText": "Help"
+      },
+      {
+        "id": "help-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Sorry” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "मदद",
+          "माफ़ कीजिए",
+          "धीरे"
+        ],
+        "answer": "माफ़ कीजिए",
+        "explanation": "“Sorry” का अर्थ “माफ़ कीजिए” है।",
+        "spokenText": "Sorry"
+      },
+      {
+        "id": "help-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Slowly” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "माफ़ कीजिए",
+          "धीरे",
+          "मदद"
+        ],
+        "answer": "धीरे",
+        "explanation": "“Slowly” का अर्थ “धीरे” है।",
+        "spokenText": "Slowly"
+      },
+      {
+        "id": "help-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "कृपया धीरे बोलिए",
+        "hint": "Tap the words to build the English sentence.",
+        "options": [
+          "slowly",
+          "Please",
+          "speak"
+        ],
+        "answer": "Please speak slowly",
+        "explanation": "कृपया धीरे बोलिए → Please speak slowly.",
+        "spokenText": null
+      },
+      {
+        "id": "help-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "सुनिए और सही वाक्य चुनिए।",
+        "options": [
+          "See you later",
+          "Have a nice day",
+          "Please speak slowly"
+        ],
+        "answer": "Please speak slowly",
+        "explanation": "You heard “Please speak slowly” — कृपया धीरे बोलिए.",
+        "spokenText": "Please speak slowly"
+      }
+    ]
+  },
+  {
+    "id": "weekend",
+    "title": "Your free time",
+    "subtitle": "Talk about things you enjoy",
+    "unit": "Out & about",
+    "position": 14,
+    "color": "blue",
+    "icon": "music",
+    "words": [
+      {
+        "english": "Music",
+        "hindi": "संगीत"
+      },
+      {
+        "english": "Game",
+        "hindi": "खेल"
+      },
+      {
+        "english": "Book",
+        "hindi": "किताब"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "weekend-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Music” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "संगीत",
+          "खेल",
+          "किताब"
+        ],
+        "answer": "संगीत",
+        "explanation": "“Music” का अर्थ “संगीत” है।",
+        "spokenText": "Music"
+      },
+      {
+        "id": "weekend-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Game” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "खेल",
+          "किताब",
+          "संगीत"
+        ],
+        "answer": "खेल",
+        "explanation": "“Game” का अर्थ “खेल” है।",
+        "spokenText": "Game"
+      },
+      {
+        "id": "weekend-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Book” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "किताब",
+          "संगीत",
+          "खेल"
+        ],
+        "answer": "किताब",
+        "explanation": "“Book” का अर्थ “किताब” है।",
+        "spokenText": "Book"
+      },
+      {
+        "id": "weekend-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "मुझे किताबें पढ़ना पसंद है",
+        "hint": "Tap the words to build the English sentence.",
+        "options": [
+          "reading",
+          "books",
+          "I",
+          "like"
+        ],
+        "answer": "I like reading books",
+        "explanation": "मुझे किताबें पढ़ना पसंद है → I like reading books.",
+        "spokenText": null
+      },
+      {
+        "id": "weekend-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "सुनिए और सही वाक्य चुनिए।",
+        "options": [
+          "Have a nice day",
+          "I like reading books",
+          "See you later"
+        ],
+        "answer": "I like reading books",
+        "explanation": "You heard “I like reading books” — मुझे किताबें पढ़ना पसंद है.",
+        "spokenText": "I like reading books"
+      }
+    ]
+  },
+  {
+    "id": "work",
+    "title": "A new workday",
+    "subtitle": "Learn workplace words",
+    "unit": "Work & conversations",
+    "position": 15,
+    "color": "violet",
+    "icon": "briefcase",
+    "words": [
+      {
+        "english": "Office",
+        "hindi": "कार्यालय"
+      },
+      {
+        "english": "Meeting",
+        "hindi": "बैठक"
+      },
+      {
+        "english": "Team",
+        "hindi": "टीम"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "work-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Office” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "बैठक",
+          "टीम",
+          "कार्यालय"
+        ],
+        "answer": "कार्यालय",
+        "explanation": "“Office” का अर्थ “कार्यालय” है।",
+        "spokenText": "Office"
+      },
+      {
+        "id": "work-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Meeting” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "टीम",
+          "कार्यालय",
+          "बैठक"
+        ],
+        "answer": "बैठक",
+        "explanation": "“Meeting” का अर्थ “बैठक” है।",
+        "spokenText": "Meeting"
+      },
+      {
+        "id": "work-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Team” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "कार्यालय",
+          "बैठक",
+          "टीम"
+        ],
+        "answer": "टीम",
+        "explanation": "“Team” का अर्थ “टीम” है।",
+        "spokenText": "Team"
+      },
+      {
+        "id": "work-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "मैं एक टीम के साथ काम करता हूँ",
+        "hint": "Tap the words to build the English sentence.",
+        "options": [
+          "with",
+          "a",
+          "team",
+          "I",
+          "work"
+        ],
+        "answer": "I work with a team",
+        "explanation": "मैं एक टीम के साथ काम करता हूँ → I work with a team.",
+        "spokenText": null
+      },
+      {
+        "id": "work-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "सुनिए और सही वाक्य चुनिए।",
+        "options": [
+          "I work with a team",
+          "See you later",
+          "Have a nice day"
+        ],
+        "answer": "I work with a team",
+        "explanation": "You heard “I work with a team” — मैं एक टीम के साथ काम करता हूँ.",
+        "spokenText": "I work with a team"
+      }
+    ]
+  },
+  {
+    "id": "email",
+    "title": "Keep in touch",
+    "subtitle": "Talk about messages",
+    "unit": "Work & conversations",
+    "position": 16,
+    "color": "mint",
+    "icon": "mail",
+    "words": [
+      {
+        "english": "Message",
+        "hindi": "संदेश"
+      },
+      {
+        "english": "Send",
+        "hindi": "भेजना"
+      },
+      {
+        "english": "Reply",
+        "hindi": "जवाब देना"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "email-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Message” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "जवाब देना",
+          "संदेश",
+          "भेजना"
+        ],
+        "answer": "संदेश",
+        "explanation": "“Message” का अर्थ “संदेश” है।",
+        "spokenText": "Message"
+      },
+      {
+        "id": "email-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Send” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "संदेश",
+          "भेजना",
+          "जवाब देना"
+        ],
+        "answer": "भेजना",
+        "explanation": "“Send” का अर्थ “भेजना” है।",
+        "spokenText": "Send"
+      },
+      {
+        "id": "email-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Reply” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "भेजना",
+          "जवाब देना",
+          "संदेश"
+        ],
+        "answer": "जवाब देना",
+        "explanation": "“Reply” का अर्थ “जवाब देना” है।",
+        "spokenText": "Reply"
+      },
+      {
+        "id": "email-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "कृपया ईमेल भेजिए",
+        "hint": "Tap the words to build the English sentence.",
+        "options": [
+          "the",
+          "email",
+          "Please",
+          "send"
+        ],
+        "answer": "Please send the email",
+        "explanation": "कृपया ईमेल भेजिए → Please send the email.",
+        "spokenText": null
+      },
+      {
+        "id": "email-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "सुनिए और सही वाक्य चुनिए।",
+        "options": [
+          "See you later",
+          "Have a nice day",
+          "Please send the email"
+        ],
+        "answer": "Please send the email",
+        "explanation": "You heard “Please send the email” — कृपया ईमेल भेजिए.",
+        "spokenText": "Please send the email"
+      }
+    ]
+  },
+  {
+    "id": "learn",
+    "title": "Keep learning",
+    "subtitle": "Talk about learning",
+    "unit": "Work & conversations",
+    "position": 17,
+    "color": "peach",
+    "icon": "book",
+    "words": [
+      {
+        "english": "Question",
+        "hindi": "सवाल"
+      },
+      {
+        "english": "Answer",
+        "hindi": "उत्तर"
+      },
+      {
+        "english": "Practice",
+        "hindi": "अभ्यास"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "learn-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Question” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "सवाल",
+          "उत्तर",
+          "अभ्यास"
+        ],
+        "answer": "सवाल",
+        "explanation": "“Question” का अर्थ “सवाल” है।",
+        "spokenText": "Question"
+      },
+      {
+        "id": "learn-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Answer” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "उत्तर",
+          "अभ्यास",
+          "सवाल"
+        ],
+        "answer": "उत्तर",
+        "explanation": "“Answer” का अर्थ “उत्तर” है।",
+        "spokenText": "Answer"
+      },
+      {
+        "id": "learn-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Practice” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "अभ्यास",
+          "सवाल",
+          "उत्तर"
+        ],
+        "answer": "अभ्यास",
+        "explanation": "“Practice” का अर्थ “अभ्यास” है।",
+        "spokenText": "Practice"
+      },
+      {
+        "id": "learn-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "मैं अंग्रेज़ी सीख रहा हूँ",
+        "hint": "Tap the words to build the English sentence.",
+        "options": [
+          "learning",
+          "English",
+          "I",
+          "am"
+        ],
+        "answer": "I am learning English",
+        "explanation": "मैं अंग्रेज़ी सीख रहा हूँ → I am learning English.",
+        "spokenText": null
+      },
+      {
+        "id": "learn-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "सुनिए और सही वाक्य चुनिए।",
+        "options": [
+          "Have a nice day",
+          "I am learning English",
+          "See you later"
+        ],
+        "answer": "I am learning English",
+        "explanation": "You heard “I am learning English” — मैं अंग्रेज़ी सीख रहा हूँ.",
+        "spokenText": "I am learning English"
+      }
+    ]
+  },
+  {
+    "id": "feelings",
+    "title": "How are you",
+    "subtitle": "Share how you feel",
+    "unit": "Work & conversations",
+    "position": 18,
+    "color": "blue",
+    "icon": "smile",
+    "words": [
+      {
+        "english": "Happy",
+        "hindi": "खुश"
+      },
+      {
+        "english": "Tired",
+        "hindi": "थका हुआ"
+      },
+      {
+        "english": "Ready",
+        "hindi": "तैयार"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "feelings-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Happy” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "थका हुआ",
+          "तैयार",
+          "खुश"
+        ],
+        "answer": "खुश",
+        "explanation": "“Happy” का अर्थ “खुश” है।",
+        "spokenText": "Happy"
+      },
+      {
+        "id": "feelings-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Tired” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "तैयार",
+          "खुश",
+          "थका हुआ"
+        ],
+        "answer": "थका हुआ",
+        "explanation": "“Tired” का अर्थ “थका हुआ” है।",
+        "spokenText": "Tired"
+      },
+      {
+        "id": "feelings-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Ready” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "खुश",
+          "थका हुआ",
+          "तैयार"
+        ],
+        "answer": "तैयार",
+        "explanation": "“Ready” का अर्थ “तैयार” है।",
+        "spokenText": "Ready"
+      },
+      {
+        "id": "feelings-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "मैं आज खुश हूँ",
+        "hint": "Tap the words to build the English sentence.",
+        "options": [
+          "happy",
+          "today",
+          "I",
+          "am"
+        ],
+        "answer": "I am happy today",
+        "explanation": "मैं आज खुश हूँ → I am happy today.",
+        "spokenText": null
+      },
+      {
+        "id": "feelings-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "सुनिए और सही वाक्य चुनिए।",
+        "options": [
+          "I am happy today",
+          "See you later",
+          "Have a nice day"
+        ],
+        "answer": "I am happy today",
+        "explanation": "You heard “I am happy today” — मैं आज खुश हूँ.",
+        "spokenText": "I am happy today"
+      }
+    ]
+  },
+  {
+    "id": "future",
+    "title": "Your next chapter",
+    "subtitle": "Talk about what comes next",
+    "unit": "Work & conversations",
+    "position": 19,
+    "color": "violet",
+    "icon": "sparkles",
+    "words": [
+      {
+        "english": "Goal",
+        "hindi": "लक्ष्य"
+      },
+      {
+        "english": "Dream",
+        "hindi": "सपना"
+      },
+      {
+        "english": "Future",
+        "hindi": "भविष्य"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "future-1",
+        "position": 0,
+        "kind": "choice",
+        "prompt": "What does “Goal” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "भविष्य",
+          "लक्ष्य",
+          "सपना"
+        ],
+        "answer": "लक्ष्य",
+        "explanation": "“Goal” का अर्थ “लक्ष्य” है।",
+        "spokenText": "Goal"
+      },
+      {
+        "id": "future-2",
+        "position": 1,
+        "kind": "choice",
+        "prompt": "What does “Dream” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "लक्ष्य",
+          "सपना",
+          "भविष्य"
+        ],
+        "answer": "सपना",
+        "explanation": "“Dream” का अर्थ “सपना” है।",
+        "spokenText": "Dream"
+      },
+      {
+        "id": "future-3",
+        "position": 2,
+        "kind": "choice",
+        "prompt": "What does “Future” mean?",
+        "hint": "सही हिंदी अर्थ चुनिए।",
+        "options": [
+          "सपना",
+          "भविष्य",
+          "लक्ष्य"
+        ],
+        "answer": "भविष्य",
+        "explanation": "“Future” का अर्थ “भविष्य” है।",
+        "spokenText": "Future"
+      },
+      {
+        "id": "future-4",
+        "position": 3,
+        "kind": "order",
+        "prompt": "मैं और सीखना चाहता हूँ",
+        "hint": "Tap the words to build the English sentence.",
+        "options": [
+          "to",
+          "learn",
+          "more",
+          "I",
+          "want"
+        ],
+        "answer": "I want to learn more",
+        "explanation": "मैं और सीखना चाहता हूँ → I want to learn more.",
+        "spokenText": null
+      },
+      {
+        "id": "future-5",
+        "position": 4,
+        "kind": "listen",
+        "prompt": "Listen and choose the phrase",
+        "hint": "सुनिए और सही वाक्य चुनिए।",
+        "options": [
+          "See you later",
+          "Have a nice day",
+          "I want to learn more"
+        ],
+        "answer": "I want to learn more",
+        "explanation": "You heard “I want to learn more” — मैं और सीखना चाहता हूँ.",
+        "spokenText": "I want to learn more"
+      }
+    ]
+  }
+]
